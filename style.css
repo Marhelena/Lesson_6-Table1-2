@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+.main {
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+table {
+  width: 100%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+td {
+  border: 1px solid black;
+  height: 50px;
+  width: 33.33%;
+  text-align: center;
+}
+
+.h200 {
+  height: 200px;
+}
+
+.w90 {
+  width: 90%;
+}
+
+.w80 {
+  width: 80%;
+}
+
+.w75 {
+  width: 75%;
+}
+
+.w60 {
+  width: 60%;
+}
+
+.w40 {
+  width: 40%;
+}
+
+.w28 {
+  width: 28%;
+}
